@@ -11,5 +11,5 @@ SberAI lab был предоставлен часть датасета PTB-XL, �
 Итоговый пайплайн состоял из сетей на основе [Squeeze-and-Excitation Blocks](https://paperswithcode.com/method/squeeze-and-excitation-block)
 ![image](https://github.com/ALT-F4-Team/localization-of-myocardial-infarction/assets/116492863/221a3a50-322d-4e37-96d6-dbfed8d69bf4)
 
-### В папке [notebooks](https://github.com/ALT-F4-Team/localization-of-myocardial-infarction/blob/main/AIIJC_presentation.pdf) доступны примеры тренировки моделей SEResNeXt и SE-ECGNet
+### В папке [notebooks](https://github.com/ALT-F4-Team/localization-of-myocardial-infarction/tree/main/notebooks) доступны примеры тренировки моделей SEResNeXt и SE-ECGNet
 ### Презентация доступна [здесь](https://github.com/ALT-F4-Team/localization-of-myocardial-infarction/blob/main/AIIJC_presentation.pdf)
